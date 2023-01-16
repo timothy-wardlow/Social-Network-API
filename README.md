@@ -2,7 +2,7 @@
 
 ## Description
 
- This week we were challenged to build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. I used Express.js for routing, a MongoDB database and the Mongoose ODM. In addition to using the Express.js and Mongoose packages, I also used Moment.js to format time. Testing and the video walkthrough were completed in Insomnia.
+ This week we were challenged to build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. I used Express.js for routing, a MongoDB database and the Mongoose ODM. Testing and the video walkthrough were completed in Insomnia.
 
 ## User Story
 
